@@ -5,7 +5,7 @@ A simple Chrome extension to take coding notes while solving problems.
 ## Installation
 
 ### Option 1: Install via CRX
-1. Download the `.crx` file from [Releases](./releases) or from [this link](LINK_TO_YOUR_CRX).
+1. Download the `.crx` file from above.
 2. Open `chrome://extensions/` in Chrome.
 3. Enable **Developer Mode** (top-right corner).
 4. Drag and drop the `.crx` file into the page.
